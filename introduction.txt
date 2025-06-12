@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Imam. I’m a student learning software engineering through ALX.  
+I’m passionate about building things, solving problems, and exploring how technology can create a better future.  
+I hope to become a skilled developer and contribute to impactful projects.
