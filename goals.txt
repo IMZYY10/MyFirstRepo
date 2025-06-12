@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+- Learn full-stack web development and build a personal portfolio site.
+- Improve my coding skills in Python and JavaScript.
+- Contribute to at least one open-source project.
+- Stay consistent with my studies in the ALX program.
+- Develop better time management and productivity habits.
